@@ -5,7 +5,7 @@ import cv2
 import face_recognition
 
 # Replace 'your_camera_url' with the actual URL of your IP camera
-camera_url = 'http://192.168.113.65:8080/video'
+camera_url = 'http://192.168.0.102:8080/video'
 
 while True:
     try:
